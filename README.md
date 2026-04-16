@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Hi,%20I'm%20MrFunntastiic%20👋&fontSize=70&fontColor=FF0000,FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=%E2%9C%A8%20Welcome%20to%20Moonveil's%20Workshop%20%E2%9C%A8&fontSize=50&fontColor=FF0000,FFFFFF" />
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
   </a>
 </p>
+
 ---
 
 ### ✨ About Me
