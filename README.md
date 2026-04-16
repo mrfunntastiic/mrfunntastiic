@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:uunharyanto0201d@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/](https://www.linkedin.com/in/uun-haryanto/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/uun-haryanto/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -74,8 +74,8 @@
 
 <div align="center">
   <a href="https://github.com/mrfunntastiic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrfunntastiic&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfunntastiic&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  <img height="180em" src="[![Stats GitHub mrfunntastiic](https://vercel.app)](https://github.com)"/>
+  <img height="180em" src="[![Bahasa Teratas](https://vercel.app)](https://github.com)"/>
   </a>
 </div>
 
