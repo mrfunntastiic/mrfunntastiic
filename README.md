@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,00FFFF&height=200&section=header&text=Hi,%20I'm%20MrFunntastiic%20👋&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Hi,%20I'm%20MrFunntastiic%20👋&fontSize=70&fontColor=000000" />
 </p>
 
 <p align="center">
   <a href="https://instagram.com/_moonveilcreatiopns" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
   </a>
   <a href="https://discord.gg/sSCgMWdR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
   </a>
 </p>
 
