@@ -1,18 +1,21 @@
-<h1 align="center">✨ Welcome to Moonveil's Digital Workshop ✨<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">*"Turning coffee into code and dreams into reality."*</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,00FFFF&height=200&section=header&text=Hi,%20I'm%20MrFunntastiic%20👋&fontSize=70&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <a href="mailto:uunharyanto0201d@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/uun-haryanto/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_moonveilcreatiopns" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.gg/sSCgMWdR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+---
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 About Me</h3></legend>
+### ✨ About Me
+*"Turning ideas into digital reality through code and creativity."*
 
-  <em>
 - 🎨 **Creative Interests:** Web Design, AI Automation, Digital Art
 - 🎮 **Currently Playing:** Monster Hunter World
 - 🤖 **Current Focus:** Building automated workflows with AI
@@ -20,14 +23,27 @@
 
 ---
 
-### 🚀 Projects in Orbit
-* **MoonSMC**: A tool for automating social media content.
-* **PortoMC**: Modern portfolio for digital creators.
-  </em> 
-  <br>
-<div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Teknologi Pembelajaran</i></b> 
-</div>
+### 📊 My GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrfunntastiic&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfunntastiic&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrfunntastiic&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Projects & Brands
+* **Moonveil Creations** - Branding and digital presence venture.
+* **AI Video Automation** - Automation tools for smart content creation.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrfunntastiic&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
 
 <br>
   
@@ -72,25 +88,4 @@
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
-<div align="center">
-  <a href="https://github.com/mrfunntastiic">
-  <img height="180em" src="[![Stats GitHub mrfunntastiic](https://vercel.app)](https://github.com)"/>
-  <img height="180em" src="[![Bahasa Teratas](https://vercel.app)](https://github.com)"/>
-  </a>
-</div>
-
 <br>
-<br>
-
-**Let's connect!**
-
-<p align="center">
-  <a href="https://instagram.com/_moonveilcreatiopns" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/sSCgMWdR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-<p align="center"> 
